@@ -10,3 +10,4 @@ const ShoppingCart = (props) => {
 ShoppingCart.defaultProps = {
   items: 0
 }
+//defaultProps -> se coloca los datos que desea colocar de default
